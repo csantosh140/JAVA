@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "mergesort",
+            "request": "launch",
+            "mainClass": "Sotings.mergesort",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "Sotings.sorting",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "Sotings.bubblesort",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "backtracking",
+            "request": "launch",
+            "mainClass": "BackTracking.backtracking",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "callguests",
+            "request": "launch",
+            "mainClass": "Recursion.ADVANCED_RECURSIONS.callguests",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "level3",
+            "request": "launch",
+            "mainClass": "arrays.level3",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "level2",
+            "request": "launch",
+            "mainClass": "arrays.level2",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "arrays.array",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "countpaths",
+            "request": "launch",
+            "mainClass": "countpaths",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "moveallxtolast",
+            "request": "launch",
+            "mainClass": "moveallxtolast",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "recusrion4",
+            "request": "launch",
+            "mainClass": "Recursion.recusrion4",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "Recursion.recursion1",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "recurion1",
+            "request": "launch",
+            "mainClass": "recurion1",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "Advancepatterns",
+            "request": "launch",
+            "mainClass": "Advancepatterns",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "bitmanipulation",
+            "request": "launch",
+            "mainClass": "bitmanipulation",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "binary",
+            "request": "launch",
+            "mainClass": "binary",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "strings2",
+            "request": "launch",
+            "mainClass": "strings2",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuilder",
+            "request": "launch",
+            "mainClass": "Stringbuilder",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "twodarrays",
+            "request": "launch",
+            "mainClass": "twodarrays",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "arrays.Arrays",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "PrintVoterAge",
+            "request": "launch",
+            "mainClass": "Exercises.PrintVoterAge",
+            "projectName": "java_5da1b3c4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
